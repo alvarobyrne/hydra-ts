@@ -3,7 +3,7 @@
   "license": "AGPL",
   "version": "1.0.0",
   "description": "A fork of ojack/hydra-synth in typescript, focusing on interoperability.",
-  "main": "dist/index.js",
+  "main": "index.ts",
   "types": "dist/index.d.ts",
   "type": "module",
   "scripts": {
